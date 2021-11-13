@@ -4,6 +4,8 @@ import './index.css';
 import App from './components/app/App';
 import './models/init';
 
+// test comment
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
