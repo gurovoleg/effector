@@ -4,7 +4,7 @@ import './index.css';
 import App from './components/app/App';
 import './models/init';
 
-// test comment
+// test comment from test-branch
 
 ReactDOM.render(
   <React.StrictMode>
