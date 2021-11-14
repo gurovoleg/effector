@@ -12,6 +12,7 @@ import './models/init';
 // test 5
 // test 6 from master
 // test 7
+// test 8
 
 ReactDOM.render(
   <React.StrictMode>
