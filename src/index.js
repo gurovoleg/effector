@@ -7,6 +7,7 @@ import './models/init';
 // test comment from test-branch
 // one more comment
 // test 3
+// test 4
 
 ReactDOM.render(
   <React.StrictMode>
