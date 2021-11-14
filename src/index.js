@@ -10,6 +10,7 @@ import './models/init';
 // test 3
 // test 4
 // test 5
+// test 6 from master
 
 ReactDOM.render(
   <React.StrictMode>
