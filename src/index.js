@@ -10,7 +10,7 @@ import './models/init';
 // test 3
 // test 4
 // test 5
-// test 6
+// test 6 from master
 // test 7
 
 ReactDOM.render(
